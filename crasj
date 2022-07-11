@@ -1,0 +1,677 @@
+MultiMC version: 0.6.16-3431
+
+
+Launched instance in online mode
+
+authserver.mojang.com resolves to:
+    [18.160.209.47, 18.160.209.61, 18.160.209.65, 18.160.209.38]
+
+session.minecraft.net resolves to:
+    [3.229.83.86, 52.45.69.223, 52.7.214.17]
+
+textures.minecraft.net resolves to:
+    [18.160.200.107, 18.160.200.72, 18.160.200.11, 18.160.200.51]
+
+api.mojang.com resolves to:
+    [18.160.200.51, 18.160.200.115, 18.160.200.113, 18.160.200.10]
+
+
+Minecraft folder is:
+C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft
+
+
+Java path is:
+C:/Program Files (x86)/Java/jre1.8.0_311/bin/java.exe
+
+
+Checking Java version...
+Java is version 1.8.0_311, using 32-bit architecture, from Oracle Corporation.
+
+
+Your Java architecture is not matching your system architecture. You might want to install a 64bit Java version.
+
+
+Main Class:
+  net.minecraft.launchwrapper.Launch
+
+Native path:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/natives
+
+Libraries:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft/bin/minecraft.jar
+
+Native libraries:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
+
+Jar Mods:
+  twilightforest-1.12.2-3.11.1021-universal (072cbaaa-f0e3-4068-9bef-d85f36aeced6.jar)
+  aether-1.12.2-v1.5.3.2 (59ae956c-2651-42ae-a6ca-6aea038631d1.jar)
+  OptiFine_1.12.2_HD_U_G5_MOD (f9668250-71df-4c41-9885-2ad79f7bd018.jar)
+
+Params:
+  --username  --version 1.12.2 --gameDir C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft --assetsDir C:/Users/dacoo/OneDrive/Documents/MultiMC/assets --assetIndex 1.12 --uuid  --accessToken  --userType  --versionType release --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker
+
+Window size: 854 x 480
+
+Java Arguments:
+[-Dfml.ignoreInvalidMinecraftCertificates=true, -Dfml.ignorePatchDiscrepancies=true, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx1024m, -Duser.language=en]
+
+
+Minecraft process ID: 15204
+
+
+Using onesix launcher.
+
+[11:26:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:26:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:26:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:26:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[11:26:51] [main/INFO] [FML]: Java is Java HotSpot(TM) Client VM, version 1.8.0_311, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_311
+[11:26:51] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[11:26:51] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[11:26:51] [main/INFO] [FML]: Searching C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\mods for mods
+[11:26:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:26:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:26:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:26:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:26:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$1 (b$1) and the actual class. Checksum on disk is 5b827776, in patch 52fe6ed7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$2 (b$2) and the actual class. Checksum on disk is adcacc44, in patch f705c38d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$3 (b$3) and the actual class. Checksum on disk is 6d9ac495, in patch af80bbe2. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$4 (b$4) and the actual class. Checksum on disk is d0e5ce88, in patch dd26c5d1. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$5 (b$5) and the actual class. Checksum on disk is 57cf0591, in patch 2823f444. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$6 (b$6) and the actual class. Checksum on disk is 3ecbbcb, in patch c994a1cb. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b$7 (b$7) and the actual class. Checksum on disk is 416e79e7, in patch bf2d713f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class b (b) and the actual class. Checksum on disk is 783cee60, in patch ccdd6a2d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class fa$1 (fa$1) and the actual class. Checksum on disk is 8a39e110, in patch 5ba9a6d0. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class fa$a (fa$a) and the actual class. Checksum on disk is abc83829, in patch ff0b20bb. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class fa$b (fa$b) and the actual class. Checksum on disk is 7644f09e, in patch 11a9df6b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class fa$c (fa$c) and the actual class. Checksum on disk is 617cfc14, in patch dbafd654. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class fa (fa) and the actual class. Checksum on disk is 6cf456d3, in patch a0ebfa14. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class nb$a (nb$a) and the actual class. Checksum on disk is a5ccdfd3, in patch 9010c872. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class nb (nb) and the actual class. Checksum on disk is 9564dfce, in patch 122c3f7d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class qx$1 (qx$1) and the actual class. Checksum on disk is b2bf5236, in patch 74ab3dc2. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class qx (qx) and the actual class. Checksum on disk is df71c227, in patch c4b32d7c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class rl$a (rl$a) and the actual class. Checksum on disk is 1fc7c06c, in patch 4f31a437. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class rl (rl) and the actual class. Checksum on disk is 4849685b, in patch 6fc7e213. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class vq$1 (vq$1) and the actual class. Checksum on disk is 5145adb8, in patch 2dd1783f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class vq$a (vq$a) and the actual class. Checksum on disk is 39985dc4, in patch cee2a6f7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class vq (vq) and the actual class. Checksum on disk is 1d906ec1, in patch 45fb8bd7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class anb (anb) and the actual class. Checksum on disk is efde922c, in patch ed05afe9. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class awp (awp) and the actual class. Checksum on disk is b4489a57, in patch d24cc16c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class awu$a (awu$a) and the actual class. Checksum on disk is ea6b68e5, in patch 934a7269. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class awu (awu) and the actual class. Checksum on disk is 2f249057, in patch 63d61d1e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class axp (axp) and the actual class. Checksum on disk is 1aa255f0, in patch af07071b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class axx (axx) and the actual class. Checksum on disk is 725208d6, in patch 3db010cb. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bid$2 (bid$2) and the actual class. Checksum on disk is 9c8bea76, in patch f59ca33. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bid$a (bid$a) and the actual class. Checksum on disk is d8130e9e, in patch 14e614f7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bid (bid) and the actual class. Checksum on disk is cb378cfb, in patch 1107b83b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bie (bie) and the actual class. Checksum on disk is 686f2fe8, in patch 5bd5fa5e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bif (bif) and the actual class. Checksum on disk is 6cd20875, in patch 819aad66. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bip (bip) and the actual class. Checksum on disk is cfe6cf84, in patch 39aa5c53. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class biq$1 (biq$1) and the actual class. Checksum on disk is 10aec89d, in patch 4a19bf64. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class biq (biq) and the actual class. Checksum on disk is dcf49371, in patch 8179b718. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bjd$1 (bjd$1) and the actual class. Checksum on disk is dfb37760, in patch 7a365ef1. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bjd (bjd) and the actual class. Checksum on disk is 5b92541c, in patch d96f8437. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:51] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bjr (bjr) and the actual class. Checksum on disk is 7c535c44, in patch afc485fa. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:51] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class blr (blr) and the actual class. Checksum on disk is 175d662b, in patch 37509bef. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bls (bls) and the actual class. Checksum on disk is 6b99799e, in patch be8b2e6d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bql (bql) and the actual class. Checksum on disk is 4645773d, in patch eeaefeb4. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class brq (brq) and the actual class. Checksum on disk is 49752610, in patch 48d16a5e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class brs (brs) and the actual class. Checksum on disk is 749a9a21, in patch 1f00a98b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bsb$1 (bsb$1) and the actual class. Checksum on disk is 38ad81d, in patch 82f4d0b5. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bsb$2 (bsb$2) and the actual class. Checksum on disk is c8f7d8da, in patch 32f9d171. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bsb$3 (bsb$3) and the actual class. Checksum on disk is b53f8bb0, in patch 8d0e8455. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bsb$4 (bsb$4) and the actual class. Checksum on disk is febb0a5, in patch 75f8aa45. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bsb (bsb) and the actual class. Checksum on disk is b1dcc420, in patch cd2c91d3. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class btg$1 (btg$1) and the actual class. Checksum on disk is d13990a3, in patch 9e8d83be. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class btg$2 (btg$2) and the actual class. Checksum on disk is 9b91e0f4, in patch 9711d45d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class btg$3 (btg$3) and the actual class. Checksum on disk is 1b309113, in patch 69e18196. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class btg$4 (btg$4) and the actual class. Checksum on disk is 302fe2dc, in patch 97b2ce1b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class btg (btg) and the actual class. Checksum on disk is 543dc05e, in patch 472b9d15. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bua (bua) and the actual class. Checksum on disk is d0ebebf5, in patch 5379fe63. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buk$1 (buk$1) and the actual class. Checksum on disk is 9942cc8b, in patch a378b5a3. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buk$2 (buk$2) and the actual class. Checksum on disk is 3a549d90, in patch c4c6779f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buk$a (buk$a) and the actual class. Checksum on disk is 56c191fb, in patch cf915337. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buk (buk) and the actual class. Checksum on disk is 6b9bab77, in patch 4a3060dc. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buq$1 (buq$1) and the actual class. Checksum on disk is ab95aaba, in patch 8c81a026. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buq$2 (buq$2) and the actual class. Checksum on disk is 266a3d5, in patch f1e9988d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buq$3 (buq$3) and the actual class. Checksum on disk is 8201deb4, in patch 55a4d00b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buq$4 (buq$4) and the actual class. Checksum on disk is 794ef36d, in patch 416df82. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buq (buq) and the actual class. Checksum on disk is efb4e94d, in patch 67843ffa. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buu$1 (buu$1) and the actual class. Checksum on disk is 45517dda, in patch 68426693. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buu (buu) and the actual class. Checksum on disk is 40f49809, in patch bf7a30c4. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buy$1 (buy$1) and the actual class. Checksum on disk is fdc99b4d, in patch 4f188c3f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buy$2 (buy$2) and the actual class. Checksum on disk is 37ee8449, in patch 87b05ded. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buy$a (buy$a) and the actual class. Checksum on disk is 3b749ad1, in patch e1349741. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class buy (buy) and the actual class. Checksum on disk is 324d0ba0, in patch c46dd0e5. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvn (bvn) and the actual class. Checksum on disk is da877f88, in patch 743fa212. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo$1 (bvo$1) and the actual class. Checksum on disk is de508526, in patch 63ca6bb0. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo$a (bvo$a) and the actual class. Checksum on disk is 3b806c87, in patch b58832d4. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo$b (bvo$b) and the actual class. Checksum on disk is 92e0fdaa, in patch a96bf54f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo$c (bvo$c) and the actual class. Checksum on disk is aaf554a6, in patch 509b2b11. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo$d (bvo$d) and the actual class. Checksum on disk is 47bc6be8, in patch 5fe04e7e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvo (bvo) and the actual class. Checksum on disk is 1120b1aa, in patch b97c3070. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvp (bvp) and the actual class. Checksum on disk is 50ddb21b, in patch 5e3d58de. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvw (bvw) and the actual class. Checksum on disk is d70de7b4, in patch 73639adc. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvx$5 (bvx$5) and the actual class. Checksum on disk is c7fb4c7, in patch 303b8c2d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bvx (bvx) and the actual class. Checksum on disk is c7c2102f, in patch 30e91188. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bwa (bwa) and the actual class. Checksum on disk is cc101f07, in patch 32d93197. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bwx (bwx) and the actual class. Checksum on disk is 42e95227, in patch 33b9d9ae. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bwy (bwy) and the actual class. Checksum on disk is 36d15137, in patch 6eaa48c1. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxm$1 (bxm$1) and the actual class. Checksum on disk is e3099d2f, in patch 9a57850c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxm$2 (bxm$2) and the actual class. Checksum on disk is 65979bf7, in patch 4e338662. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxm$3 (bxm$3) and the actual class. Checksum on disk is 2dc2a820, in patch 918889cb. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxm$a (bxm$a) and the actual class. Checksum on disk is e853335a, in patch f09712ea. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxm (bxm) and the actual class. Checksum on disk is a2cd79af, in patch 7df6677a. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bxr (bxr) and the actual class. Checksum on disk is bc843222, in patch 57beff8e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzf (bzf) and the actual class. Checksum on disk is 88dde7ac, in patch 3d089905. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzv (bzv) and the actual class. Checksum on disk is 8ee58a9c, in patch 2e320195. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$1 (bzw$1) and the actual class. Checksum on disk is 48baa85b, in patch 934a9d05. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$2 (bzw$2) and the actual class. Checksum on disk is 92cd6bd4, in patch 9913628c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$3 (bzw$3) and the actual class. Checksum on disk is b220a0cb, in patch 13c39563. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$4 (bzw$4) and the actual class. Checksum on disk is 7fdda850, in patch cd4a9ce8. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$5 (bzw$5) and the actual class. Checksum on disk is 2f19a126, in patch 8c8895be. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$6 (bzw$6) and the actual class. Checksum on disk is 59226cd5, in patch ce1a6181. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$7 (bzw$7) and the actual class. Checksum on disk is f4c66be1, in patch 96cd6095. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$8 (bzw$8) and the actual class. Checksum on disk is dffe68a5, in patch 44c85f57. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$9 (bzw$9) and the actual class. Checksum on disk is 72b26a06, in patch ab4860b8. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw$10 (bzw$10) and the actual class. Checksum on disk is c58d6dd1, in patch 844b6489. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class bzw (bzw) and the actual class. Checksum on disk is 61a0927, in patch 6b73246c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class caa$1 (caa$1) and the actual class. Checksum on disk is 40d28139, in patch f79863c2. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class caa (caa) and the actual class. Checksum on disk is 2ca8635d, in patch 9246fd52. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cbp (cbp) and the actual class. Checksum on disk is 2bd9f5e9, in patch fe2dbd4b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdj (cdj) and the actual class. Checksum on disk is d02deaf1, in patch 21e3b82b. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdn$a (cdn$a) and the actual class. Checksum on disk is 29a3973d, in patch 55838162. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdn$b (cdn$b) and the actual class. Checksum on disk is 667449ff, in patch 8b0a1e5c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdn (cdn) and the actual class. Checksum on disk is ec552a94, in patch c0fa82c7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdp$1 (cdp$1) and the actual class. Checksum on disk is a23c8ef4, in patch fca08245. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdp$2 (cdp$2) and the actual class. Checksum on disk is 1747c3e3, in patch 4ed7ba1d. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdp$3 (cdp$3) and the actual class. Checksum on disk is fc67c248, in patch ab2cb885. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdp (cdp) and the actual class. Checksum on disk is 8a21606f, in patch e863c090. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdq$1 (cdq$1) and the actual class. Checksum on disk is f1c90fe0, in patch 5368f9c0. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdq (cdq) and the actual class. Checksum on disk is 49e545e1, in patch b9ee51ab. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdr$1 (cdr$1) and the actual class. Checksum on disk is d49ea290, in patch 43a92ae. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdr (cdr) and the actual class. Checksum on disk is 5e3f4c5d, in patch 30f3ea1a. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cdt (cdt) and the actual class. Checksum on disk is 9061abe8, in patch a3d8404f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class ceu$2 (ceu$2) and the actual class. Checksum on disk is 74bd9606, in patch 30357f24. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class ceu$3 (ceu$3) and the actual class. Checksum on disk is 94ca02b7, in patch d458e61c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class ceu$a (ceu$a) and the actual class. Checksum on disk is e1191493, in patch c679d828. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class ceu (ceu) and the actual class. Checksum on disk is 535cd0fb, in patch 18c1ce54. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cfz (cfz) and the actual class. Checksum on disk is 863d690f, in patch 74de5ead. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cgb$1 (cgb$1) and the actual class. Checksum on disk is 1a25bcb5, in patch c79fa5. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cgb$2 (cgb$2) and the actual class. Checksum on disk is 965db489, in patch 88c9a19c. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cgb$3 (cgb$3) and the actual class. Checksum on disk is 97eae105, in patch f85dc4cc. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cgb (cgb) and the actual class. Checksum on disk is 7a8ed591, in patch dce25909. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class chd$1 (chd$1) and the actual class. Checksum on disk is 9a778cfe, in patch dc4a8381. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class chd$2 (chd$2) and the actual class. Checksum on disk is 970462f4, in patch 6698578a. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class chd$3 (chd$3) and the actual class. Checksum on disk is 73fdfa10, in patch 395e024e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class chd (chd) and the actual class. Checksum on disk is 978c6fa8, in patch 3cea0567. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cii$1 (cii$1) and the actual class. Checksum on disk is ac437b39, in patch e9d55b6f. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cii$a (cii$a) and the actual class. Checksum on disk is ceaaaddd, in patch d4e8a328. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/FATAL] [FML]: There is a binary discrepancy between the expected input class cii (cii) and the actual class. Checksum on disk is 48811ea7, in patch 2c9cabf7. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:52] [main/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:52] [main/ERROR] [FML]: The minecraft jar file:/C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether%20Twilight/.minecraft/bin/minecraft.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[11:26:52] [main/ERROR] [FML]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[11:26:52] [main/ERROR] [FML]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether%20Twilight/.minecraft/bin/minecraft.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[11:26:52] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[11:26:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:26:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:26:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:26:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:26:52] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:26:52] [Client thread/INFO] [minecraft/Minecraft]: Setting user: BullenCarker
+[11:26:53] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/block/state/BlockStateContainer$1 (awu$1) and the actual class. Checksum on disk is 367ae5a7, in patch 333ada2e. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:53] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:53] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/block/state/BlockStateBase$1 (awp$1) and the actual class. Checksum on disk is 421dd65, in patch 43d0c799. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:53] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:54] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/settings/GameSettings$1 (bid$1) and the actual class. Checksum on disk is 6abf8b6e, in patch ccaa82bf. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:54] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:54] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Forge ***
+[11:26:54] [Client thread/INFO] [net.optifine.reflect.Reflector]: [OptiFine] *** Reflector Vanilla ***
+[11:26:54] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] 
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] Build: 20210124-142939
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] OS: Windows 10 (x86) version 10.0
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] Java: 1.8.0_311, Oracle Corporation
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] VM: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] LWJGL: 2.9.4
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] OpenGL: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2, version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] OpenGL Version: 4.6.0
+[11:26:54] [Client thread/INFO] [Config]: [OptiFine] Maximum texture size: 32768x32768
+[11:26:54] [VersionCheck/INFO] [Config]: [OptiFine] Checking for new version
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 472.12
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Vendor:  NVIDIA Corporation
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Renderer: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Load shaders configuration.
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] Save shaders configuration.
+[11:26:55] [Client thread/INFO] [net.optifine.shaders.SMCLog]: [Shaders] No shaderpack loaded.
+[11:26:55] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[11:26:55] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[11:26:55] [Client thread/INFO] [Config]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[11:26:55] [VersionCheck/INFO] [Config]: [OptiFine] Version found: G5
+[11:26:55] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/resources/ResourcePackRepository$1 (ceu$1) and the actual class. Checksum on disk is 1b61b559, in patch 21cca429. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:55] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:55] [Client thread/INFO] [FML]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[11:26:55] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 377991304 bytes (360 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 472.12' Renderer: 'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+[11:26:55] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[11:26:55] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:26:55] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:26:55] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:26:55] [Client thread/INFO] [FML]: Searching C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\mods for mods
+[11:26:56] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[11:26:56] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, twilightforest] at CLIENT
+[11:26:56] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, twilightforest] at SERVER
+[11:26:56] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Aether, FMLFileResourcePack:The Twilight Forest
+[11:26:56] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:26:56] [Client thread/INFO] [FML]: Found 1455 ObjectHolder annotations
+[11:26:56] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:26:56] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:26:56] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:26:56] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[11:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[11:26:57] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 183079696 nanos
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Just Enough Items.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[11:26:57] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[11:26:57] [Client thread/INFO] [FML]: Applying holder lookups
+[11:26:57] [Client thread/INFO] [FML]: Holder lookups applied
+[11:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
+[11:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[11:26:58] [Client thread/INFO] [FML]: Applying holder lookups
+[11:26:58] [Client thread/INFO] [FML]: Holder lookups applied
+[11:26:58] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[11:26:58] [Client thread/INFO] [FML]: Applying holder lookups
+[11:26:58] [Client thread/INFO] [FML]: Holder lookups applied
+[11:26:58] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/WorldVertexBufferUploader (bul) and the actual class. Checksum on disk is f958181e, in patch 48968003. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:58] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:58] [Client thread/INFO] [FML]: Applying holder lookups
+[11:26:58] [Client thread/INFO] [FML]: Holder lookups applied
+[11:26:58] [Client thread/INFO] [FML]: Injecting itemstacks
+[11:26:58] [Client thread/INFO] [FML]: Itemstack injection complete
+[11:26:58] [Client thread/INFO] [Config]: [OptiFine] *** Reloading textures ***
+[11:26:58] [Client thread/INFO] [Config]: [OptiFine] Resource packs: Default
+[11:26:58] [Client thread/INFO] [Config]: [OptiFine] EmissiveTextures: Loading optifine/emissive.properties
+[11:26:59] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+[11:26:59] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/block/model/FaceBakery$Rotation (bvx$a) and the actual class. Checksum on disk is 8c58677c, in patch a3975b36. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:59] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:59] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/block/model/FaceBakery$1 (bvx$1) and the actual class. Checksum on disk is a7b15766, in patch ad2345ed. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:59] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:59] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/block/model/FaceBakery$2 (bvx$2) and the actual class. Checksum on disk is 232c5bde, in patch 3d994a60. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:59] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:59] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/block/model/FaceBakery$3 (bvx$3) and the actual class. Checksum on disk is 1e1e5d07, in patch f1ce4b87. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:59] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:59] [Client thread/FATAL] [FML]: There is a binary discrepancy between the expected input class net/minecraft/client/renderer/block/model/FaceBakery$4 (bvx$4) and the actual class. Checksum on disk is 6615c41, in patch 2f164abf. Things are probably about to go very wrong. Did you put something into the jar file?
+[11:26:59] [Client thread/FATAL] [FML]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[11:26:59] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+[11:26:59] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:26:59] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+[11:26:59] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] Mipmap levels: 4
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] Multitexture: false
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] Multipass connected textures: false
+[11:27:00] [Client thread/INFO] [Config]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[11:27:01] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: ---- Minecraft Crash Report ----
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 7/11/22 11:27 AM
+Description: Initializing game
+
+java.lang.IllegalAccessError: tried to access field net.minecraft.client.renderer.texture.TextureAtlasSprite.field_110982_k from class twilightforest.client.texture.MoltenFieryTexture
+	at twilightforest.client.texture.MoltenFieryTexture.load(MoltenFieryTexture.java:39)
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:208)
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at twilightforest.client.texture.MoltenFieryTexture.load(MoltenFieryTexture.java:39)
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:208)
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:152)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 295728384 bytes (282 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 Optifine OptiFine_1.12.2_HD_U_G5 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID             | Version      | Source                                  | Signature |
+	|:----- |:-------------- |:------------ |:--------------------------------------- |:--------- |
+	| LCH   | minecraft      | 1.12.2       | minecraft.jar                           | None      |
+	| LCH   | mcp            | 9.42         | minecraft.jar                           | None      |
+	| LCH   | FML            | 8.0.99.99    | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| LCH   | forge          | 14.23.5.2847 | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| LCH   | aether_legacy  | 1.5.3.2      | minecraft.jar                           | None      |
+	| LCH   | twilightforest | 3.11.1021    | minecraft.jar                           | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 472.12' Renderer: 'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 12x Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz
+	OptiFine Version: OptiFine_1.12.2_HD_U_G5
+	OptiFine Build: 20210124-142939
+	Render Distance Chunks: 8
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 472.12
+	OpenGlRenderer: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 12
+[11:27:01] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\crash-reports\crash-2022-07-11_11.27.00-client.txt
+AL lib: (EE) alc_cleanup: 1 device not closed
+Process exited with code -1 (0xffffffffffffffff).
+Please note that usually neither the exit code, nor its description are enough to diagnose issues!
+Always upload the entire log and not just the exit code.
