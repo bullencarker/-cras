@@ -1,0 +1,307 @@
+MultiMC version: 0.6.16-3431
+
+
+Launched instance in online mode
+
+authserver.mojang.com resolves to:
+    [18.160.209.61, 18.160.209.65, 18.160.209.47, 18.160.209.38]
+
+session.minecraft.net resolves to:
+    [52.7.214.17, 3.229.83.86, 52.45.69.223]
+
+textures.minecraft.net resolves to:
+    [18.160.200.11, 18.160.200.72, 18.160.200.107, 18.160.200.51]
+
+api.mojang.com resolves to:
+    [18.160.200.10, 18.160.200.115, 18.160.200.113, 18.160.200.51]
+
+
+Minecraft folder is:
+C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft
+
+
+Java path is:
+C:/Program Files (x86)/Java/jre1.8.0_311/bin/java.exe
+
+
+Checking Java version...
+Java is version 1.8.0_311, using 32-bit architecture, from Oracle Corporation.
+
+
+Your Java architecture is not matching your system architecture. You might want to install a 64bit Java version.
+
+
+Main Class:
+  net.minecraft.launchwrapper.Launch
+
+Native path:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/natives
+
+Libraries:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/patchy/1.3.9/patchy-1.3.9.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/oshi-project/oshi-core/1.1/oshi-core-1.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/io/netty/netty-all/4.1.9.Final/netty-all-4.1.9.Final.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/google/guava/guava/21.0/guava-21.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-io/commons-io/2.5/commons-io-2.5.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/it/unimi/dsi/fastutil/7.1.0/fastutil-7.1.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/ow2/asm/asm-all/5.2/asm-all-5.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/jline/jline/3.5.1/jline-3.5.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/apache/maven/maven-artifact/3.5.3/maven-artifact-3.5.3.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft/bin/minecraft.jar
+
+Native libraries:
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-windows.jar
+  C:/Users/dacoo/OneDrive/Documents/MultiMC/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3-natives-windows.jar
+
+Jar Mods:
+  aether-1.12.2-v1.5.3.2 (1) (a185d1f1-866a-4a65-b4a6-2c8be6709e30.jar)
+  twilightforest-1.12.2-3.10.1013-universal (34b9a655-73be-4a9e-819d-654833cdee53.jar)
+
+Params:
+  --username  --version 1.12.2 --gameDir C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether Twilight/.minecraft --assetsDir C:/Users/dacoo/OneDrive/Documents/MultiMC/assets --assetIndex 1.12 --uuid  --accessToken  --userType  --versionType release --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker
+
+Window size: 854 x 480
+
+Java Arguments:
+[-Dfml.ignoreInvalidMinecraftCertificates=true, -Dfml.ignorePatchDiscrepancies=true, -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump, -Xms512m, -Xmx1024m, -Duser.language=en]
+
+
+Minecraft process ID: 19984
+
+
+Using onesix launcher.
+
+[00:23:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[00:23:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[00:23:31] [main/INFO] [FML]: Java is Java HotSpot(TM) Client VM, version 1.8.0_311, running on Windows 10:x86:10.0, installed at C:\Program Files (x86)\Java\jre1.8.0_311
+[00:23:31] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[00:23:31] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[00:23:31] [main/INFO] [FML]: Searching C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\mods for mods
+[00:23:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:23:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:23:32] [main/ERROR] [FML]: The minecraft jar file:/C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether%20Twilight/.minecraft/bin/minecraft.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[00:23:32] [main/ERROR] [FML]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[00:23:32] [main/ERROR] [FML]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/dacoo/OneDrive/Documents/MultiMC/instances/Aether%20Twilight/.minecraft/bin/minecraft.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[00:23:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[00:23:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:23:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:23:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:23:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:23:32] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[00:23:33] [Client thread/INFO] [minecraft/Minecraft]: Setting user: BullenCarker
+[00:23:34] [Client thread/WARN] [minecraft/GameSettings]: Skipping bad option: lastServer:
+[00:23:34] [Client thread/INFO] [minecraft/Minecraft]: LWJGL Version: 2.9.4
+[00:23:35] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 360413240 bytes (343 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 472.12' Renderer: 'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+[00:23:35] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[00:23:35] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:23:35] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:23:35] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:23:36] [Client thread/INFO] [FML]: Searching C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\mods for mods
+[00:23:36] [Client thread/INFO] [FML]: Forge Mod Loader has identified 6 mods to load
+[00:23:36] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, twilightforest, aether_legacy] at CLIENT
+[00:23:36] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, twilightforest, aether_legacy] at SERVER
+[00:23:37] [Client thread/INFO] [minecraft/SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Aether, 1122 vanilla tweaks.zip
+[00:23:37] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:23:37] [Client thread/INFO] [FML]: Found 1455 ObjectHolder annotations
+[00:23:37] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:23:37] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:23:37] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:23:37] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[00:23:37] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 17277213 nanos
+[00:23:37] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[00:23:37] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[00:23:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Baubles.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Just Enough Items.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[00:23:38] [Client thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[00:23:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859
+[00:23:38] [Client thread/INFO] [FML]: Applying holder lookups
+[00:23:38] [Client thread/INFO] [FML]: Holder lookups applied
+[00:23:38] [Client thread/INFO] [FML]: Applying holder lookups
+[00:23:38] [Client thread/INFO] [FML]: Holder lookups applied
+[00:23:38] [Client thread/INFO] [FML]: Applying holder lookups
+[00:23:38] [Client thread/INFO] [FML]: Holder lookups applied
+[00:23:38] [Client thread/INFO] [FML]: Applying holder lookups
+[00:23:38] [Client thread/INFO] [FML]: Holder lookups applied
+[00:23:38] [Client thread/INFO] [FML]: Injecting itemstacks
+[00:23:38] [Client thread/INFO] [FML]: Itemstack injection complete
+[00:23:39] [Sound Library Loader/INFO] [minecraft/SoundManager]: Starting up SoundSystem...
+[00:23:39] [Thread-5/INFO] [minecraft/SoundManager]: Initializing LWJGL OpenAL
+[00:23:39] [Thread-5/INFO] [minecraft/SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[00:23:39] [Thread-5/INFO] [minecraft/SoundManager]: OpenAL initialized.
+[00:23:40] [Sound Library Loader/INFO] [minecraft/SoundManager]: Sound engine started
+[00:23:40] [Client thread/INFO] [FML]: Max texture size: 16384
+[00:23:40] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: ---- Minecraft Crash Report ----
+// Why is it breaking :(
+
+Time: 7/12/22 12:23 AM
+Description: Initializing game
+
+java.lang.IllegalAccessError: tried to access field net.minecraft.client.renderer.texture.TextureAtlasSprite.field_110982_k from class twilightforest.client.texture.MoltenFieryTexture
+	at twilightforest.client.texture.MoltenFieryTexture.load(MoltenFieryTexture.java:39)
+	at net.minecraft.client.renderer.texture.TextureMap.loadTexture(TextureMap.java:148)
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:110)
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:91)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at twilightforest.client.texture.MoltenFieryTexture.load(MoltenFieryTexture.java:39)
+	at net.minecraft.client.renderer.texture.TextureMap.loadTexture(TextureMap.java:148)
+	at net.minecraft.client.renderer.texture.TextureMap.func_110571_b(TextureMap.java:110)
+	at net.minecraft.client.renderer.texture.TextureMap.func_174943_a(TextureMap.java:91)
+	at net.minecraftforge.client.model.ModelLoader.func_177570_a(ModelLoader.java:159)
+	at net.minecraft.client.renderer.block.model.ModelManager.func_110549_a(ModelManager.java:28)
+	at net.minecraft.client.resources.SimpleReloadableResourceManager.func_110542_a(SimpleReloadableResourceManager.java:121)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:513)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.multimc.onesix.OneSixLauncher.launchWithMainClass(OneSixLauncher.java:210)
+	at org.multimc.onesix.OneSixLauncher.launch(OneSixLauncher.java:245)
+	at org.multimc.EntryPoint.listen(EntryPoint.java:143)
+	at org.multimc.EntryPoint.main(EntryPoint.java:34)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (x86) version 10.0
+	Java Version: 1.8.0_311, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) Client VM (mixed mode), Oracle Corporation
+	Memory: 308299560 bytes (294 MB) / 519110656 bytes (495 MB) up to 1037959168 bytes (989 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 6 mods loaded, 6 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID             | Version      | Source                                  | Signature |
+	|:----- |:-------------- |:------------ |:--------------------------------------- |:--------- |
+	| LCH   | minecraft      | 1.12.2       | minecraft.jar                           | None      |
+	| LCH   | mcp            | 9.42         | minecraft.jar                           | None      |
+	| LCH   | FML            | 8.0.99.99    | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| LCH   | forge          | 14.23.5.2847 | forge-1.12.2-14.23.5.2847-universal.jar | None      |
+	| LCH   | aether_legacy  | 1.5.3.2      | minecraft.jar                           | None      |
+	| LCH   | twilightforest | 3.10.1013    | minecraft.jar                           | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 472.12' Renderer: 'NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2'
+	Launched Version: 1.12.2
+	LWJGL: 2.9.4
+	OpenGL: NVIDIA GeForce RTX 3070 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 472.12, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 1122 vanilla tweaks.zip
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	CPU: 12x Intel(R) Core(TM) i5-10600K CPU @ 4.10GHz
+[00:23:40] [Client thread/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:func_179870_a:553]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\dacoo\OneDrive\Documents\MultiMC\instances\Aether Twilight\.minecraft\crash-reports\crash-2022-07-12_00.23.40-client.txt
+AL lib: (EE) alc_cleanup: 1 device not closed
+Process exited with code -1 (0xffffffffffffffff).
+Please note that usually neither the exit code, nor its description are enough to diagnose issues!
+Always upload the entire log and not just the exit code.
